@@ -9,7 +9,7 @@
 ### 评价指标
 本次比赛采用与CoQA比赛一致的宏平均（macro-average F1）进行评估。
 对于每个问题，需要与N个标准回答计算得到N个F1，并取最大值作为其F1值。然而在评估人类表现（Human Performance）的时候，每个标准回答需要与N-1个其它标准回答计算F1值。为了更公平地对比指标，需要把N个标准回答按照N-1一组的方式分成N组，最终每个问题的F1值为这N组F1的平均值。整个数据集的F1值为所有数据F1的平均值。计算公式如下：
- 
+![equation](https://github.com/iFlytekJudiciary/CAIL2019_CJRC/blob/master/picture/equation.png)
 其中，InterSec计算预测回答与标准回答的交集（以字为单位），Countref表示标准回答数目（3个），max部分取预测回答与每个标准回答（除当前标准回答外，目的是与评估人类水平的方法一致）F1值的最大值。最终得分为In-domain和Out-of-domain宏平均F1值的平均值。
 
 ### 数据集说明

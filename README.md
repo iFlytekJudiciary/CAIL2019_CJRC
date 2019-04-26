@@ -4,7 +4,7 @@
 ### 评测任务概述
 裁判文书中包含了丰富的案件信息，比如时间、地点、人物关系等等，通过机器智能化地阅读理解裁判文书，可以更快速、便捷地辅助法官、律师以及普通大众获取所需信息。本次比赛是首次基于中文裁判文书的阅读理解比赛，属于篇章片段抽取型阅读理解比赛（Span-Extraction Machine Reading Comprehension）。为了增加问题的多样性，参考英文阅读理解比赛SQuAD和CoQA，本比赛增加了拒答以及是否类（YES/NO）问题（样例见下图）。鉴于裁判文书中很多案由的案件数据量比较少，为了能解决低频案件的问题，同时考察模型的泛化能力，本次比赛设置领域内（In-domain）和领域外（Out-of-domain）两类测试集。In-domain是指测试数据的案由种类在训练集中出现，Out-of-domain是指测试数据的案由种类不在训练集中出现。
 
-![example](https://github.com/iFlytekJudiciary/CAIL2019_CJRC/blob/master/picture/example.png)
+![example](https://github.com/iFlytekJudiciary/CAIL2019_CJRC/blob/master/picture/example2.jpg)
 
 比赛行程划分为两个阶段，第一阶段根据开发集的测试结果排名，第二阶段根据测试集的测试结果排名。比赛最终成绩计算方式：最终成绩 = 第一阶段的成绩 * 0.3 + 第二阶段的成绩 * 0.7
 

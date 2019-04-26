@@ -1,4 +1,4 @@
-# “中国法研杯”中文法律阅读理解比赛(CAIL-CJRC(Chinese Judicial Reading Comprehension) 2019)
+# “中国法研杯”中文法律阅读理解比赛 CAIL2019-CJRC(Chinese Judicial Reading Comprehension)
 
 ## 评测内容
 ### 评测任务概述

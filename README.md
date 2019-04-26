@@ -75,4 +75,5 @@ SMP2019大会期间召开研讨会	2019年8月16日-2019年8月18日
 
 ## 法小飞
 由哈工大讯飞联合实验室出品的“法小飞”智能法律咨询助手应用了对话型阅读理解技术，在为用户提供精准答案的同时提升了用户的对话交互体验。“法小飞”是一个服务公众和律师的法律咨询助手，旨在利用自然语言处理技术和法律专业知识，为用户提供快速优质的法律咨询及相关服务。“法小飞”通过学习大量的法律知识，对当事人提出的法律问题进行自动解答，并且能够针对刑事和民事案件进行深入的案情分析，拥有类案推送、法条推荐、判决预测和律师推荐的功能。
-![iflylegal](https://github.com/iFlytekJudiciary/CAIL2019_CJRC/blob/master/picture/iflylegal2.jpg)
+
+<div align=center><img width="150" height="150" src="https://github.com/iFlytekJudiciary/CAIL2019_CJRC/blob/master/picture/iflylegal2.jpg"/></div>

@@ -1,5 +1,4 @@
-# “中国法研杯”中文法律阅读理解比赛(CAIL-CJRC 2019)
-Chinese Judicial Reading Comprehension
+# “中国法研杯”中文法律阅读理解比赛(CAIL-CJRC(Chinese Judicial Reading Comprehension) 2019)
 
 ## 评测内容
 ### 评测任务概述
@@ -17,8 +16,7 @@ Chinese Judicial Reading Comprehension
 本次技术评测使用的数据集由科大讯飞提供，数据主要来源于裁判文书网，其中包含刑事和民事一审裁判文书。训练集约包含5万个问题，开发集和测试集各约1万问题。对于开发集和测试集，每个问题包含3个人工标注参考答案。开发集和测试集又均包含In-domain和Out-of-domain两部分数据，其中In-domain数据对应的案由包含在训练集中，Out-of-domain对应的案由不在训练集中。
 
 ## 重要日期
-注册报名：将于4月30日开启报名，报名网站http://cail.cipsc.org.cn/，敬请关注！  
-事件	时间  
+注册报名：将于4月30日开启报名，报名网站 http://cail.cipsc.org.cn/， 敬请关注！  
 报名	2019年4月30日-2019年6月30日  
 训练数据发布	2019年5月15日  
 比赛第一阶段	2019年5月16日-2019年7月15日  
